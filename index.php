@@ -1,5 +1,14 @@
-<?php
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Exo 131</title>
+</head>
 
-// Notre premier Hello World
+<body>
+    <?php
+        echo "Hello World !";
+    ?>
+</body>
 
-     "Hello World !";
+</html>
